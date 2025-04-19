@@ -40,7 +40,7 @@ let userData = {
 };
 
 // تنظیم ربات تلگرام
-const token = 'YOUR_TELEGRAM_BOT_TOKEN';
+const token = '7684165123:AAEP9RDSFpGP9jm-eaDkB4lv81pv5m6qRyo';
 const bot = new TelegramBot(token, {polling: true});
 
 // دستورات ربات
